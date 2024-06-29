@@ -28,6 +28,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'frisky-5st1.onrender.com',
+    '127.0.0.1'
     # Other hosts...
 ]
 
